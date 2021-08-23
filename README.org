@@ -4,7 +4,7 @@
 #+DESCRIPTION: Mikhail Gorbachev github profile description
 #+LANGUAGE:  en
 
-Welcome to my profile! Enjoy this [[https://en.wikipedia.org/wiki/Fizz_buzz][FizzBuzz]] implementation and make yourself at home!
+Welcome to my profile! Enjoy this [[https://en.wikipedia.org/wiki/Fizz_buzz][FizzBuzz]] [[https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=e7d8cd5a4850f1f9009ff96ee7b99526][implementation]] and make yourself at home!
 
 #+BEGIN_SRC rust
 const NUMS: [&str; 101] = [
